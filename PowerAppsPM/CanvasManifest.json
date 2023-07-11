@@ -114,13 +114,13 @@
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "TotalSafetyProgram",
+    "Name": "TotalSafetyProgram1",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
   },
   "PublishInfo": {
-    "AppName": "TotalSafetyProgram",
+    "AppName": "TotalSafetyProgram1",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
@@ -134,6 +134,6 @@
     "Pagina 1",
     "Iniciarsesión",
     "Screen1",
-    "Screen2"
+    "Pagina 5"
   ]
 }

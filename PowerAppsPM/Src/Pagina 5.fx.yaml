@@ -1,0 +1,20 @@
+"'Pagina 5' As screen":
+
+    Image2 As image:
+        Height: =320
+        Image: ='icone-etoile-pourple-removebg-preview_1'
+        Width: =320
+        X: =280
+        Y: =18
+        ZIndex: =1
+
+    Label7 As label:
+        Font: =Font.Georgia
+        Height: =70
+        Size: =35
+        Text: ="HI USER!"
+        Width: =560
+        X: =40
+        Y: =40
+        ZIndex: =2
+
