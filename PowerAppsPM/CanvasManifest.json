@@ -131,7 +131,8 @@
     "UserLocale": "es-ES"
   },
   "ScreenOrder": [
-    "Screen1",
-    "Screen2"
+    "Pagina 1",
+    "Iniciarsesión",
+    "Screen1"
   ]
 }
