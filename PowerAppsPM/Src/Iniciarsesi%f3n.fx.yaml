@@ -1,0 +1,35 @@
+Iniciarsesión As screen:
+    Fill: =RGBA(26, 26, 26, 1)
+
+    Button1 As button:
+        BorderThickness: =3
+        Fill: =RGBA(202, 202, 202, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =30
+        Text: ="Iniciar sesión"
+        Width: =510
+        X: =67
+        Y: =550
+        ZIndex: =1
+
+    Button2 As button:
+        BorderThickness: =3
+        Fill: =RGBA(202, 202, 202, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =30
+        Text: ="Registrarse "
+        Width: =510
+        X: =67
+        Y: =664
+        ZIndex: =2
+
+    Image1 As image:
+        Height: =425
+        Image: ='thumbnail_dise_o_de_informarica-removebg-preview'
+        Width: =410
+        X: =86
+        Y: =78
+        ZIndex: =3
+

@@ -3,48 +3,67 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
+    "Button1": 6,
+    "Button2": 7,
     "Host": 3,
-    "Screen1": 4,
-    "Screen2": 5
+    "Image1": 8,
+    "Iniciarsesión": 5,
+    "Screen1": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 20:07:33",
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 20:48:30",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "thumbnail_dise_o_de_informarica-removebg-preview": "8c0fb149-4475-4f7e-84db-6880ee99082e.png"
+  },
+  "LocalResourceRootPaths": {
+    "thumbnail_dise_o_de_informarica-removebg-preview": "https://docserverpwaprodwus.blob.core.windows.net/f4df6ca2-2400-4cd9-9d1f-e8239fc88678-1/resource/233965a2-5e64-411a-9fdd-120d9ae53fc1.png?sv=2018-03-28&sr=b&sig=OYVlLYTZxR0TDRojc6y4J%2F1TcAHarO65wICvSeCztiY%3D&spr=https&se=2023-07-12T20%3A56%3A49Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "image": 0
+  },
   "OverridablePropertiesEntry": {
     "App": {},
+    "Button1": {},
+    "Button2": {},
     "Host": {},
-    "Screen1": {},
-    "Screen2": {}
+    "Image1": {},
+    "Iniciarsesión": {},
+    "Screen1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "Button1": 1,
+    "Button2": 2,
     "Host": 0,
-    "Screen1": 0,
-    "Screen2": 0
+    "Image1": 0,
+    "Iniciarsesión": 0,
+    "Screen1": 0
   },
-  "ResourcesJsonIndices": {},
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0,
+    "Image-thumbnail_dise_o_de_informarica-removebg-preview": 1
+  },
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0375741,
+    "AnalysisLoadTime": 0.0375768,
     "ControlCount": {
-      "screen": 1
+      "screen": 2
     },
-    "DeserializationLoadTime": 1.1409929
+    "DeserializationLoadTime": 0.4007364
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
