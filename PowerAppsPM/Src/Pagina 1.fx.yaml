@@ -1,0 +1,112 @@
+"'Pagina 1' As screen":
+    Fill: =RGBA(26, 26, 26, 1)
+
+    Image1 As image:
+        Height: =742
+        Image: ='thumbnail_dise_o_de_informarica-removebg-preview'
+        Width: =591
+        Y: =175
+        ZIndex: =1
+
+    Label1 As label:
+        Align: =Align.Center
+        Color: =RGBA(219, 219, 219, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
+        Height: =150
+        Size: =50
+        Text: ="Total Safety "
+        Width: =599
+        X: =26
+        Y: =153
+        ZIndex: =2
+
+    Label2 As label:
+        Align: =Align.Center
+        Color: =RGBA(219, 219, 219, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
+        Height: =91
+        Size: =50
+        Text: ="Program "
+        Width: =579
+        X: =46
+        Y: =784
+        ZIndex: =5
+
+    Image3 As image:
+        Height: =46
+        Image: ='icone-etoile-pourple-removebg-preview'
+        Width: =62
+        X: =578
+        Y: =598
+        ZIndex: =6
+
+    Image4 As image:
+        Height: =36
+        Image: ='images-removebg-preview'
+        Width: =81
+        X: =94
+        Y: =980
+        ZIndex: =7
+
+    Image5 As image:
+        Height: =138
+        Image: ='icone-etoile-pourple-removebg-preview_1'
+        Width: =147
+        Y: =998
+        ZIndex: =8
+
+    Image6 As image:
+        Height: =74
+        Image: =bab
+        Width: =107
+        X: =127
+        Y: =1016
+        ZIndex: =9
+
+    Image6_1 As image:
+        Height: =74
+        Image: =bab
+        Width: =107
+        Y: =424
+        ZIndex: =10
+
+    Image4_1 As image:
+        Height: =36
+        Image: ='images-removebg-preview'
+        Width: =81
+        Y: =395
+        ZIndex: =11
+
+    Image5_1 As image:
+        Height: =42
+        Image: ='icone-etoile-pourple-removebg-preview_1'
+        Width: =49
+        X: =591
+        ZIndex: =12
+
+    Image7 As image:
+        Height: =77
+        Image: =bn
+        Width: =101
+        X: =490
+        Y: =17
+        ZIndex: =13
+
+    Image5_2 As image:
+        Height: =27
+        Image: ='icone-etoile-pourple-removebg-preview_1'
+        Width: =37
+        X: =46
+        Y: =415
+        ZIndex: =14
+
+    Image7_1 As image:
+        Height: =77
+        Image: =bn
+        Width: =101
+        X: =524
+        Y: =625
+        ZIndex: =15
+
