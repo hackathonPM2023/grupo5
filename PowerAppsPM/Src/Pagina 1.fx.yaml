@@ -1,5 +1,5 @@
 "'Pagina 1' As screen":
-    Fill: =RGBA(26, 26, 26, 1)
+    Fill: =RGBA(255, 255, 255, 1)
 
     Image1 As image:
         Height: =742
@@ -10,7 +10,7 @@
 
     Label1 As label:
         Align: =Align.Center
-        Color: =RGBA(219, 219, 219, 1)
+        Color: =RGBA(56, 96, 178, 1)
         Font: =Font.Georgia
         FontWeight: =FontWeight.Semibold
         Height: =150
@@ -23,7 +23,7 @@
 
     Label2 As label:
         Align: =Align.Center
-        Color: =RGBA(219, 219, 219, 1)
+        Color: =RGBA(56, 96, 178, 1)
         Font: =Font.Georgia
         FontWeight: =FontWeight.Semibold
         Height: =91
