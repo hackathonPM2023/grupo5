@@ -1,38 +1,48 @@
 Screen1 As screen:
+    Fill: =RGBA(255, 255, 255, 1)
 
-    Label3 As label:
+    TextInput2 As text:
+        Align: =Align.Center
+        BorderColor: =RGBA(109, 49, 162, 1)
+        BorderThickness: =5
+        Color: =RGBA(0, 94, 146, 1)
+        Default: ="Entrada de texto"
         Font: =Font.Georgia
         Height: =70
-        Size: =60
-        Text: ="Hi User!"
-        Width: =560
-        X: =40
-        Y: =40
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =257
+        X: =192
+        Y: =52
         ZIndex: =1
 
-    Image2 As image:
-        Height: =115
-        Image: ='na-removebg-preview'
-        Width: =186
-        X: =414
-        Y: =40
+    TextInput4 As text:
+        BorderColor: =RGBA(109, 49, 162, 1)
+        BorderThickness: =5
+        Default: ="Entrada de texto"
+        Height: =55
+        RadiusBottomLeft: =15
+        RadiusBottomRight: =15
+        RadiusTopLeft: =15
+        RadiusTopRight: =15
+        Size: =21
+        Width: =389
+        X: =100
+        Y: =228
         ZIndex: =2
 
-    TextInput1 As text:
-        Default: ="Entrada de texto"
+    Label6 As label:
+        Color: =RGBA(39, 113, 194, 1)
+        Font: =Font.Georgia
         FontWeight: =FontWeight.Bold
         Height: =70
-        Size: =21
-        Width: =560
-        X: =40
-        Y: =196
+        Size: =18
+        Text: ="Correo"
+        Width: =153
+        X: =100
+        Y: =171
         ZIndex: =3
-
-    Image8 As image:
-        Height: =36
-        Image: ='images__1_-removebg-preview'
-        Width: =86
-        X: =136
-        Y: =213
-        ZIndex: =4
 
