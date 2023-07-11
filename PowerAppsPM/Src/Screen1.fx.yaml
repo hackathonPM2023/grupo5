@@ -1,49 +1,34 @@
 Screen1 As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
-    TextInput2 As text:
+    TextInput1 As text:
         Align: =Align.Center
-        BorderColor: =RGBA(109, 49, 162, 1)
-        BorderThickness: =5
-        Color: =RGBA(0, 94, 146, 1)
-        Default: ="Entrada de texto"
+        BorderColor: =RGBA(136, 160, 209, 1)
+        BorderThickness: =8
+        Color: =RGBA(109, 49, 162, 1)
+        Default: ="REGISTRARSE"
         Font: =Font.Georgia
-        Height: =76
-        RadiusBottomLeft: =20
-        RadiusBottomRight: =20
-        RadiusTopLeft: =20
-        RadiusTopRight: =20
-        Size: =35
-        Width: =369
-        X: =135
-        Y: =69
+        Height: =70
+        RadiusBottomLeft: =10
+        RadiusBottomRight: =10
+        RadiusTopLeft: =10
+        RadiusTopRight: =10
+        Size: =31
+        Width: =560
+        X: =42
+        Y: =62
         ZIndex: =1
 
-    TextInput4 As text:
-        BorderColor: =RGBA(109, 49, 162, 1)
-        BorderThickness: =5
-        Default: ="Entrada de texto"
-        Height: =75
-        RadiusBottomLeft: =15
-        RadiusBottomRight: =15
-        RadiusTopLeft: =15
-        RadiusTopRight: =15
-        Size: =21
-        Width: =480
-        X: =100
-        Y: =275
-        ZIndex: =2
-
-    Label6 As label:
-        Color: =RGBA(39, 113, 194, 1)
-        Font: =Font.Georgia
-        FontWeight: =FontWeight.Bold
+    Label1_1 As label:
+        Fill: =RGBA(255, 255, 255, 1)
+        Font: =Font.'Segoe UI'
         Height: =70
-        Size: =25
-        Text: ="Email "
-        Width: =153
-        X: =100
-        Y: =218
+        Size: =21
+        Text: ="Fecha de nacimiento"
+        Visible: =false
+        Width: =560
+        X: =60
+        Y: =416
         ZIndex: =3
 
     TextInput4_1 As text:
@@ -61,6 +46,22 @@ Screen1 As screen:
         Y: =512
         ZIndex: =4
 
+    Label2 As label:
+        Align: =Align.Center
+        Color: =RGBA(50, 86, 160, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =21
+        Text: |-
+            ="DATE OF BIRTH
+            DAY/MONTH/YEAR
+            "
+        Width: =560
+        X: =42
+        Y: =195
+        ZIndex: =4
+
     Label6_1 As label:
         Color: =RGBA(39, 113, 194, 1)
         Font: =Font.Georgia
@@ -72,4 +73,116 @@ Screen1 As screen:
         X: =100
         Y: =442
         ZIndex: =5
+
+    Label3 As label:
+        Align: =Align.Center
+        Color: =RGBA(50, 86, 160, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =21
+        Text: |-
+            ="GÉNDER
+            FEMALE/MALE/OTHERS"
+        Width: =560
+        X: =42
+        Y: =318
+        ZIndex: =5
+
+    Label4 As label:
+        Height: =70
+        Size: =21
+        Text: =""
+        Width: =560
+        X: =42
+        Y: =448
+        ZIndex: =6
+
+    Label1_2 As label:
+        Align: =Align.Center
+        Color: =RGBA(50, 86, 160, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =21
+        Text: ="USER'S NAME"
+        Width: =560
+        X: =41
+        Y: =438
+        ZIndex: =7
+
+    Label5 As label:
+        Align: =Align.Center
+        Color: =RGBA(50, 86, 160, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =21
+        Text: ="E-MAIL"
+        Width: =560
+        X: =41
+        Y: =532
+        ZIndex: =8
+
+    Label6 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(215, 223, 240, 1)
+        Color: =RGBA(50, 86, 160, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =25
+        Text: ="Email "
+        Width: =560
+        X: =42
+        Y: =218
+        ZIndex: =9
+
+    Image3 As image:
+        Height: =63
+        Image: ='icone-etoile-pourple-removebg-preview'
+        Width: =106
+        X: =3
+        Y: =844
+        ZIndex: =10
+
+    Image5 As image:
+        Height: =28
+        Image: ='descarga__1_-removebg-preview'
+        Width: =39
+        X: =67
+        Y: =907
+        ZIndex: =12
+
+    Image5_1 As image:
+        Height: =28
+        Image: ='descarga__1_-removebg-preview'
+        Width: =39
+        X: =601
+        Y: =262
+        ZIndex: =13
+
+    Image5_2 As image:
+        Height: =28
+        Image: ='descarga__1_-removebg-preview'
+        Width: =39
+        X: =21
+        Y: =421
+        ZIndex: =14
+
+    Image3_1 As image:
+        Height: =23
+        Image: ='icone-etoile-pourple-removebg-preview'
+        Width: =41
+        X: =3
+        Y: =398
+        ZIndex: =15
+
+    Image3_2 As image:
+        Height: =23
+        Image: ='icone-etoile-pourple-removebg-preview'
+        Width: =39
+        X: =3
+        Y: =16
+        ZIndex: =16
 

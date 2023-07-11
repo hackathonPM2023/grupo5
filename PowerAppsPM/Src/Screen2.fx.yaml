@@ -1,0 +1,9 @@
+Screen2 As screen:
+
+    Image2 As image:
+        Height: =320
+        Width: =320
+        X: =170
+        Y: =305
+        ZIndex: =1
+
