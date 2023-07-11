@@ -26,10 +26,10 @@ Iniciarsesión As screen:
         ZIndex: =2
 
     Image1 As image:
-        Height: =425
+        Height: =472
         Image: ='thumbnail_dise_o_de_informarica-removebg-preview'
-        Width: =410
-        X: =86
-        Y: =78
+        Width: =482
+        X: =40
+        Y: =90
         ZIndex: =3
 
