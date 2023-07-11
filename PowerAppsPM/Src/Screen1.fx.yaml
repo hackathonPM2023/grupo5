@@ -47,6 +47,21 @@ Screen1 As screen:
         Y: =195
         ZIndex: =4
 
+    TextInput4_1 As text:
+        BorderColor: =RGBA(109, 49, 162, 1)
+        BorderThickness: =5
+        Default: ="Entrada de texto"
+        Height: =75
+        RadiusBottomLeft: =15
+        RadiusBottomRight: =15
+        RadiusTopLeft: =15
+        RadiusTopRight: =15
+        Size: =21
+        Width: =480
+        X: =100
+        Y: =512
+        ZIndex: =4
+
     Label3 As label:
         Align: =Align.Center
         Color: =RGBA(50, 86, 160, 1)
@@ -60,6 +75,18 @@ Screen1 As screen:
         Width: =560
         X: =42
         Y: =318
+        ZIndex: =5
+
+    Label6_1 As label:
+        Color: =RGBA(39, 113, 194, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =25
+        Text: ="Email "
+        Width: =153
+        X: =100
+        Y: =442
         ZIndex: =5
 
     Label4 As label:
@@ -104,11 +131,11 @@ Screen1 As screen:
         Font: =Font.Georgia
         FontWeight: =FontWeight.Semibold
         Height: =70
-        Size: =21
-        Text: ="PASSWORD"
+        Size: =25
+        Text: ="Email "
         Width: =560
         X: =42
-        Y: =622
+        Y: =218
         ZIndex: =9
 
     Image3 As image:
