@@ -15,6 +15,7 @@ Iniciodesesión As screen:
 
     TextInput3 As text:
         Align: =Align.Center
+        BorderColor: =RGBA(109, 49, 162, 1)
         BorderThickness: =3
         Color: =RGBA(237, 237, 237, 1)
         Default: ="Username or e-mail address "
@@ -32,6 +33,7 @@ Iniciodesesión As screen:
 
     TextInput4 As text:
         Align: =Align.Center
+        BorderColor: =RGBA(109, 49, 162, 1)
         BorderThickness: =3
         Color: =RGBA(237, 237, 237, 1)
         Default: |-
@@ -50,7 +52,7 @@ Iniciodesesión As screen:
         ZIndex: =3
 
     Button4 As button:
-        Fill: =RGBA(202, 202, 202, 1)
+        Fill: =RGBA(109, 49, 162, 1)
         Font: =Font.Georgia
         Height: =70
         OnSelect: =

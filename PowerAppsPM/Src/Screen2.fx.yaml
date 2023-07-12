@@ -2,41 +2,54 @@ Screen2 As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
     Button5 As button:
+        Color: =RGBA(109, 49, 162, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Font: =Font.Georgia
         FontWeight: =FontWeight.Bold
-        Height: =80
-        RadiusBottomLeft: =20
-        RadiusBottomRight: =20
-        RadiusTopLeft: =20
-        RadiusTopRight: =20
+        Height: =100
+        RadiusBottomLeft: =90
+        RadiusBottomRight: =90
+        RadiusTopLeft: =90
+        RadiusTopRight: =90
         Size: =30
         Text: ="Aplicaciones restringidas "
         Width: =550
-        X: =39
-        Y: =713
+        X: =45
+        Y: =706
         ZIndex: =2
 
     Button6 As button:
+        Color: =RGBA(109, 49, 162, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Font: =Font.Georgia
         FontWeight: =FontWeight.Bold
-        Height: =80
-        RadiusBottomLeft: =20
-        RadiusBottomRight: =20
-        RadiusTopLeft: =20
-        RadiusTopRight: =20
+        Height: =100
+        RadiusBottomLeft: =90
+        RadiusBottomRight: =90
+        RadiusTopLeft: =90
+        RadiusTopRight: =90
         Size: =30
-        Text: ="Asesoramiento"
+        Text: ="Consulting"
         Width: =500
         X: =64
         Y: =521
         ZIndex: =3
 
     Button7 As button:
+        Color: =RGBA(109, 49, 162, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Font: =Font.Georgia
         FontWeight: =FontWeight.Bold
-        Height: =80
+        Height: =100
+        RadiusBottomLeft: =90
+        RadiusBottomRight: =90
+        RadiusTopLeft: =90
+        RadiusTopRight: =90
         Size: =30
         Text: ="Time of use"
         Width: =500
         X: =64
-        Y: =300
+        Y: =324
         ZIndex: =4
 
     Label13 As label:
@@ -48,6 +61,6 @@ Screen2 As screen:
         Size: =40
         Text: ="PARENTAL CONTROL"
         Width: =640
-        Y: =78
+        Y: =121
         ZIndex: =5
 
