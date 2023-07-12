@@ -31,21 +31,21 @@ Screen5 As screen:
         ZIndex: =3
 
     Image18 As image:
-        Height: =156
-        Image: =bab
-        Width: =306
-        X: =333
-        Y: =320
+        Height: =201
+        Image: =img2
+        Width: =326
+        X: =314
+        Y: =298
         ZIndex: =4
 
     Rectangle2_1 As rectangle:
         BorderStyle: =BorderStyle.Dashed
         BorderThickness: =2
         Fill: =RGBA(0, 0, 0, 0)
-        Height: =156
+        Height: =201
         Width: =288
-        X: =352
-        Y: =446
+        X: =333
+        Y: =298
         ZIndex: =6
 
     Rectangle2_3 As rectangle:
@@ -54,6 +54,74 @@ Screen5 As screen:
         Fill: =RGBA(0, 0, 0, 0)
         Height: =156
         Width: =288
-        Y: =320
+        Y: =298
         ZIndex: =8
+
+    Label15 As label:
+        Font: =Font.Georgia
+        Height: =56
+        Size: =30
+        Text: ="Other Uses"
+        Width: =253
+        X: =17
+        Y: =585
+        ZIndex: =9
+
+    Rectangle5 As rectangle:
+        BorderStyle: =BorderStyle.Dashed
+        BorderThickness: =2
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =195
+        Width: =290
+        X: =9
+        Y: =676
+        ZIndex: =10
+
+    Rectangle5_1 As rectangle:
+        Height: =153
+        Width: =270
+        X: =351
+        Y: =697
+        ZIndex: =11
+
+    Image19 As image:
+        Height: =242
+        Image: =online_shopping_security
+        Width: =270
+        X: =17
+        Y: =652
+        ZIndex: =12
+
+    Rectangle6 As rectangle:
+        Fill: =RGBA(202, 202, 202, 1)
+        Height: =133
+        Width: =343
+        X: =155
+        Y: =915
+        ZIndex: =13
+
+    Label16 As label:
+        Height: =90
+        Size: =100
+        Text: ="+"
+        Width: =173
+        X: =288
+        Y: =936
+        ZIndex: =14
+
+    Image21 As image:
+        Height: =62
+        Image: =nm
+        Width: =74
+        X: =547
+        Y: =1060
+        ZIndex: =15
+
+    Image22 As image:
+        Height: =70
+        Image: ='32170'
+        Width: =71
+        X: =17
+        Y: =1060
+        ZIndex: =16
 
