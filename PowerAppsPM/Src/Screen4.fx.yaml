@@ -1,0 +1,41 @@
+Screen4 As screen:
+    BackgroundImage: =
+
+    Image14 As image:
+        Height: =764
+        Image: ='Captura_de_pantalla__11_-removebg-preview'
+        Width: =640
+        Y: =17
+        ZIndex: =1
+
+    AddMediaWithImage1 As group:
+        Height: =5
+        Width: =5
+        X: =40
+        Y: =40
+        ZIndex: =2
+
+        UploadedImage1 As image:
+            Height: =0
+            Image: =If(IsBlank(AddMediaButton1.Media), SampleImage, AddMediaButton1.Media)
+            ImagePosition: =ImagePosition.Fill
+            Width: =0
+            X: =640
+            Y: =1136
+            ZIndex: =3
+
+        AddMediaButton1 As addMedia:
+            Height: =0
+            Size: =25
+            Width: =0
+            X: =638
+            Y: =982
+            ZIndex: =4
+
+    Image16 As image:
+        Height: =318
+        Image: ='Flexible-thinking-blog-840x485-840x600-removebg-preview'
+        Width: =400
+        Y: =58
+        ZIndex: =5
+

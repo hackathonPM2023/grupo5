@@ -1,0 +1,59 @@
+Screen5 As screen:
+
+    Label14 As label:
+        Font: =Font.Georgia
+        Height: =70
+        Size: =40
+        Text: ="HI USER!"
+        Width: =560
+        Y: =34
+        ZIndex: =1
+
+    Image17 As image:
+        Height: =129
+        Image: ='descarga__2_-removebg-preview'
+        Width: =106
+        X: =498
+        Y: =4
+        ZIndex: =2
+
+    TextInput6 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        RadiusBottomLeft: =10
+        RadiusBottomRight: =10
+        RadiusTopLeft: =10
+        RadiusTopRight: =10
+        Size: =21
+        Width: =560
+        X: =44
+        Y: =204
+        ZIndex: =3
+
+    Image18 As image:
+        Height: =156
+        Image: =bab
+        Width: =306
+        X: =333
+        Y: =320
+        ZIndex: =4
+
+    Rectangle2_1 As rectangle:
+        BorderStyle: =BorderStyle.Dashed
+        BorderThickness: =2
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =156
+        Width: =288
+        X: =352
+        Y: =446
+        ZIndex: =6
+
+    Rectangle2_3 As rectangle:
+        BorderStyle: =BorderStyle.Dashed
+        BorderThickness: =2
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =156
+        Width: =288
+        Y: =320
+        ZIndex: =8
+
