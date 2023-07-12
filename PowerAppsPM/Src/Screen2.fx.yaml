@@ -1,2 +1,53 @@
 Screen2 As screen:
+    Fill: =RGBA(255, 255, 255, 1)
+
+    Button5 As button:
+        FontWeight: =FontWeight.Bold
+        Height: =80
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =30
+        Text: ="Aplicaciones restringidas "
+        Width: =550
+        X: =39
+        Y: =713
+        ZIndex: =2
+
+    Button6 As button:
+        FontWeight: =FontWeight.Bold
+        Height: =80
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =30
+        Text: ="Asesoramiento"
+        Width: =500
+        X: =64
+        Y: =521
+        ZIndex: =3
+
+    Button7 As button:
+        FontWeight: =FontWeight.Bold
+        Height: =80
+        Size: =30
+        Text: ="Time of use"
+        Width: =500
+        X: =64
+        Y: =300
+        ZIndex: =4
+
+    Label13 As label:
+        Align: =Align.Center
+        Color: =RGBA(39, 113, 194, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =130
+        Size: =40
+        Text: ="PARENTAL CONTROL"
+        Width: =640
+        Y: =78
+        ZIndex: =5
 

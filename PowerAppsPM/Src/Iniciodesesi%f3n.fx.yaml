@@ -2,7 +2,8 @@ Iniciodesesión As screen:
 
     Label12 As label:
         Align: =Align.Center
-        Color: =RGBA(0, 18, 107, 1)
+        Color: =RGBA(56, 96, 178, 1)
+        Font: =Font.Georgia
         FontWeight: =FontWeight.Bold
         Height: =70
         Size: =50
@@ -15,7 +16,9 @@ Iniciodesesión As screen:
     TextInput3 As text:
         Align: =Align.Center
         BorderThickness: =3
+        Color: =RGBA(237, 237, 237, 1)
         Default: ="Username or e-mail address "
+        Font: =Font.Georgia
         Height: =90
         RadiusBottomLeft: =90
         RadiusBottomRight: =90
@@ -30,9 +33,11 @@ Iniciodesesión As screen:
     TextInput4 As text:
         Align: =Align.Center
         BorderThickness: =3
+        Color: =RGBA(237, 237, 237, 1)
         Default: |-
             ="password
             "
+        Font: =Font.Georgia
         Height: =90
         RadiusBottomLeft: =90
         RadiusBottomRight: =90
@@ -45,6 +50,8 @@ Iniciodesesión As screen:
         ZIndex: =3
 
     Button4 As button:
+        Fill: =RGBA(202, 202, 202, 1)
+        Font: =Font.Georgia
         Height: =70
         OnSelect: =
         RadiusBottomLeft: =1020
