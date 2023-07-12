@@ -9,7 +9,7 @@ Iniciodesesión As screen:
         Text: ="LOG IN"
         Width: =560
         X: =46
-        Y: =140
+        Y: =213
         ZIndex: =1
 
     TextInput3 As text:
