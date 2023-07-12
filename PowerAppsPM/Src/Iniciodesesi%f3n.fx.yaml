@@ -46,6 +46,7 @@ Iniciodesesión As screen:
 
     Button4 As button:
         Height: =70
+        OnSelect: =
         RadiusBottomLeft: =1020
         RadiusBottomRight: =1020
         RadiusTopLeft: =1020

@@ -1,4 +1,4 @@
-Pantalladeinicio As screen:
+pantallai As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
     Image13 As image:
