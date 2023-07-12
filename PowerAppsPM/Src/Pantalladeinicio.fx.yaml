@@ -5,6 +5,7 @@ Pantalladeinicio As screen:
         Height: =569
         Image: ='thumbnail_dise_o_de_informarica-removebg-preview_1'
         Width: =556
+        Y: =102
         ZIndex: =3
 
     Button1 As button:
@@ -16,7 +17,7 @@ Pantalladeinicio As screen:
         Text: ="Log in"
         Width: =550
         X: =54
-        Y: =530
+        Y: =625
         ZIndex: =4
 
     Button2 As button:
@@ -27,6 +28,6 @@ Pantalladeinicio As screen:
         Text: ="Sign Up"
         Width: =550
         X: =54
-        Y: =626
+        Y: =752
         ZIndex: =5
 
