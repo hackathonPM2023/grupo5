@@ -1,0 +1,64 @@
+Iniciodesesión As screen:
+
+    Label12 As label:
+        Align: =Align.Center
+        Color: =RGBA(0, 18, 107, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =50
+        Text: ="LOG IN"
+        Width: =560
+        X: =46
+        Y: =140
+        ZIndex: =1
+
+    TextInput3 As text:
+        Align: =Align.Center
+        BorderThickness: =3
+        Default: ="Entrada de texto"
+        Height: =90
+        RadiusBottomLeft: =90
+        RadiusBottomRight: =90
+        RadiusTopLeft: =90
+        RadiusTopRight: =90
+        Size: =30
+        Width: =560
+        X: =46
+        Y: =334
+        ZIndex: =2
+
+    TextInput4 As text:
+        Align: =Align.Center
+        BorderThickness: =3
+        Default: ="Entrada de texto"
+        Height: =90
+        RadiusBottomLeft: =90
+        RadiusBottomRight: =90
+        RadiusTopLeft: =90
+        RadiusTopRight: =90
+        Size: =30
+        Width: =560
+        X: =46
+        Y: =474
+        ZIndex: =3
+
+    Button4 As button:
+        Height: =70
+        RadiusBottomLeft: =1020
+        RadiusBottomRight: =1020
+        RadiusTopLeft: =1020
+        RadiusTopRight: =1020
+        Size: =30
+        Text: ="Log in"
+        Width: =500
+        X: =76
+        Y: =612
+        ZIndex: =5
+
+    Image15 As image:
+        Height: =406
+        Image: ='09a178348795ed3f76b1a63782ad2de4-dibujos-animados-de-saturno-paorpura_1'
+        Width: =393
+        Y: =730
+        ZIndex: =6
+

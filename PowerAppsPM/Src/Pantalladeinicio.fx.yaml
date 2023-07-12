@@ -1,13 +1,14 @@
-Iniciarsesión As screen:
-    Fill: =RGBA(26, 26, 26, 1)
+Pantalladeinicio As screen:
+    Fill: =RGBA(255, 255, 255, 1)
 
     Button1 As button:
         BorderThickness: =3
         Fill: =RGBA(202, 202, 202, 1)
         FontWeight: =FontWeight.Bold
         Height: =70
+        OnSelect: =Navigate(Iniciodesesión,ScreenTransition.Cover)
         Size: =30
-        Text: ="Iniciar sesión"
+        Text: ="Log in"
         Width: =510
         X: =67
         Y: =550
@@ -18,10 +19,17 @@ Iniciarsesión As screen:
         Fill: =RGBA(202, 202, 202, 1)
         FontWeight: =FontWeight.Bold
         Height: =70
+        OnSelect: =Navigate(Screen1,ScreenTransition.Cover)
         Size: =30
-        Text: ="Registrarse "
+        Text: ="Sign up"
         Width: =510
         X: =67
-        Y: =664
+        Y: =656
         ZIndex: =2
+
+    Image13 As image:
+        Height: =569
+        Image: ='thumbnail_dise_o_de_informarica-removebg-preview_1'
+        Width: =556
+        ZIndex: =3
 
