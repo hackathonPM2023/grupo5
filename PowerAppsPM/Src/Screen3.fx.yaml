@@ -1,0 +1,133 @@
+Screen3 As screen:
+
+    Rectangle2 As rectangle:
+        Fill: =RGBA(214, 223, 238, 1)
+        Height: =207
+        Width: =640
+        ZIndex: =2
+
+    Label18 As label:
+        Font: =Font.Georgia
+        Height: =95
+        Size: =50
+        Text: ="CHAT"
+        Width: =249
+        X: =214
+        Y: =82
+        ZIndex: =3
+
+    Image20 As image:
+        Height: =53
+        Image: =NM
+        Width: =81
+        X: =12
+        Y: =12
+        ZIndex: =4
+
+    Image23 As image:
+        Height: =42
+        Image: =MI
+        Width: =89
+        X: =550
+        Y: =23
+        ZIndex: =5
+
+    Rectangle9 As rectangle:
+        BorderColor: =RGBA(219, 219, 219, 1)
+        Fill: =RGBA(237, 237, 237, 1)
+        Height: =158
+        Width: =456
+        X: =38
+        Y: =259
+        ZIndex: =6
+
+    Rectangle9_1 As rectangle:
+        BorderColor: =RGBA(219, 219, 219, 1)
+        Fill: =RGBA(237, 237, 237, 1)
+        Height: =88
+        Width: =451
+        X: =38
+        Y: =691
+        ZIndex: =7
+
+    Rectangle9_2 As rectangle:
+        BorderColor: =RGBA(219, 219, 219, 1)
+        Fill: =RGBA(237, 237, 237, 1)
+        Height: =73
+        Width: =456
+        X: =38
+        Y: =800
+        ZIndex: =8
+
+    Rectangle9_3 As rectangle:
+        BorderColor: =RGBA(0, 121, 187, 1)
+        Fill: =RGBA(0, 121, 187, 1)
+        Height: =175
+        Width: =476
+        X: =130
+        Y: =473
+        ZIndex: =9
+
+    Rectangle9_4 As rectangle:
+        BorderColor: =RGBA(0, 121, 187, 1)
+        Fill: =RGBA(0, 121, 187, 1)
+        Height: =67
+        Width: =476
+        X: =130
+        Y: =915
+        ZIndex: =10
+
+    Image25 As image:
+        Height: =93
+        Image: ='3364044'
+        Width: =150
+        Y: =458
+        ZIndex: =11
+
+    Image25_1 As image:
+        Height: =93
+        Image: ='3364044'
+        Width: =150
+        Y: =902
+        ZIndex: =12
+
+    Image26 As image:
+        Height: =94
+        Image: ='61416edcb8f63b0748a03985_pgdb'
+        Width: =151
+        X: =489
+        Y: =253
+        ZIndex: =13
+
+    Image26_1 As image:
+        Height: =94
+        Image: ='61416edcb8f63b0748a03985_pgdb'
+        Width: =151
+        X: =489
+        Y: =685
+        ZIndex: =14
+
+    Rectangle2_2 As rectangle:
+        Fill: =RGBA(214, 223, 238, 1)
+        Height: =96
+        Width: =640
+        Y: =1040
+        ZIndex: =15
+
+    Rectangle9_5 As rectangle:
+        BorderColor: =RGBA(219, 219, 219, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =73
+        Width: =456
+        X: =12
+        Y: =1051
+        ZIndex: =16
+
+    Image27 As image:
+        Height: =61
+        Image: ='-send_90420'
+        Width: =75
+        X: =494
+        Y: =1051
+        ZIndex: =17
+
