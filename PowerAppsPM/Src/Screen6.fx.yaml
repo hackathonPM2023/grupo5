@@ -1,0 +1,54 @@
+Screen6 As screen:
+
+    Rectangle10 As rectangle:
+        BorderColor: =RGBA(215, 223, 240, 1)
+        Fill: =RGBA(227, 234, 243, 1)
+        Width: =640
+        ZIndex: =1
+
+    Icon4 As icon.ArrowLeft:
+        Icon: =Icon.ArrowLeft
+        X: =16
+        Y: =18
+        ZIndex: =2
+
+    Image28 As image:
+        Height: =43
+        Image: =MI
+        Width: =104
+        X: =536
+        Y: =28
+        ZIndex: =3
+
+    Image29 As image:
+        Height: =586
+        Image: ='ña-removebg-preview (1)'
+        Width: =501
+        X: =52
+        Y: =343
+        ZIndex: =4
+
+    Image30 As image:
+        Height: =153
+        Image: =mnl
+        Width: =196
+        X: =16
+        Y: =364
+        ZIndex: =5
+
+    Image31 As image:
+        Height: =271
+        Image: ='pg-removebg-preview'
+        Width: =276
+        X: =182
+        Y: =246
+        ZIndex: =6
+
+    Image32 As image:
+        Height: =158
+        Image: ='cm-security'
+        Width: =170
+        X: =431
+        Y: =376
+        ZIndex: =7
+
